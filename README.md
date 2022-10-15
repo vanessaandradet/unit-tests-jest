@@ -2,11 +2,11 @@
 
 ## GitHub Actions
 
-[![Build and Tests](https://github.com/maiconalano/unit-test-jest/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/maiconalano/unit-test-jest/actions/workflows/node.js.yml)
+[![Build and Tests](https://github.com/maiconalano/unit-test-jest/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/vanessaandradet/unit-test-jest/actions/workflows/node.js.yml)
 
 ## SonarCloud
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=maiconalano_unit-test-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=maiconalano_unit-test-jest)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=maiconalano_unit-test-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=vanessaandradet_unit-test-jest)
 
 ## Getting Started
 
